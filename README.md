@@ -1,4 +1,5 @@
-# FloatingSearchView
+# FloatingSearchView [![](https://img.shields.io/badge/android%20weekly-%23186-yellow.svg)](http://androidweekly.net/issues/issue-186) [![](https://jitpack.io/v/renaudcerrato/FloatingSearchView.svg)](https://jitpack.io/#renaudcerrato/FloatingSearchView)
+
 
 Yet another floating search view implementation, also known as persistent search: that implementation fully supports menu (including submenu), logo and animated icon. Dropdown suggestions are backed by a `RecyclerView` and you can provide your own `RecyclerView.Adapter`, `ItemDecorator` or `ItemAnimator`. No hiding. 
 
@@ -120,7 +121,7 @@ Look at the [sample](https://github.com/renaudcerrato/FloatingSearchView/blob/ma
 
 # Install
 
-This repositery can be found on JitPack:
+This repository can be found on JitPack:
 
 https://jitpack.io/#renaudcerrato/FloatingSearchView
 
@@ -137,7 +138,7 @@ allprojects {
 Add the dependency:
 ```
 dependencies {
-	        compile 'com.github.renaudcerrato:FloatingSearchView:1.0.0'
+	        compile 'com.github.renaudcerrato:FloatingSearchView:1.0.1'
 	}
 ```
 
